@@ -1,7 +1,7 @@
 import { getIndex } from "./utilities.js";
 import { mrPotatoHeadQuotes } from './quotes/mrPotatoHead.js'
-import { mrsPotatoHeadQuotes } from './quotes/mrsPotatoHead.js'
-export default class Game {
+import  mrsPotatoHeadQuotes  from './quotes/mrsPotatoHead.js'
+export  class Game {
 
   start() {
 
